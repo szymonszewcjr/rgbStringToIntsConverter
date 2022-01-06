@@ -1,5 +1,5 @@
 # rgbStringToIntsConverter
-Sample code for convertying rgb strings to ints
+
 
 Sample code for convertying rgb strings aka "255,120,234" to 
 int red = 255;
